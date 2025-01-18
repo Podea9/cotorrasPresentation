@@ -1,5 +1,6 @@
 #### El tema va a ser un curso para enseñarle a hablar a tu cotorra. Temas que seguro tengo que cubrir:
 
+- Presentación/Inicio
 - Cómo hacen las aves como las cotorras para "hablar"
 - Por qué uso a las cotorras
 - Cómo atrapar a tu cotorra
