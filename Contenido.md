@@ -14,3 +14,10 @@
 
 ----------
 La idea es poder ir respondiendo esas preguntas o temas con cada una de las diapositivas que haga
+
+
+
+
+info:
+- [info de aves de Buenos Aires](https://www.tiendanimal.es/articulos/porque-los-loros-hablan/)
+- [¿Por qué "hablan" algunas aves?](https://www.tiendanimal.es/articulos/cotorras-argentinas/?srsltid=AfmBOoqBloEQqLEqh-HBj4wmEJCWk6QdlGZlfrkCuRaD1P57G8eHceH7)
