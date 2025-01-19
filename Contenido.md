@@ -3,6 +3,7 @@
 - Presentación/Inicio
 - Cómo hacen las aves como las cotorras para "hablar"
 - Por qué uso a las cotorras
+- Diferentes especies de cotorras
 - Cómo atrapar a tu cotorra
 - Cómo cuidar a tu cotorra
 - Cuánto "duran" las cotorras
