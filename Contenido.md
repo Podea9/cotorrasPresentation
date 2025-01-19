@@ -11,6 +11,9 @@
 - No a la crueldad de las cotorras
 - Cómo saber si ya expiró tu cotorra
 - Agradecimientos
+----------
+
+Link al documento con toda la información usada: https://docs.google.com/document/d/1InsDTYSvYKJxovIKcClCdE1FUzC-tEei-nYNFQz4Wnc/edit?usp=sharing
 
 ----------
 La idea es poder ir respondiendo esas preguntas o temas con cada una de las diapositivas que haga
