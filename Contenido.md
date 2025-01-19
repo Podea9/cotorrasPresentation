@@ -28,3 +28,6 @@ info:
 - [Listado de aves documentadas en el jardín botánico](https://buenosaires.gob.ar/sites/default/files/media/document/2018/02/10/61ad46a5a42ce1d1cc4bc58c9cbfa5ca8e518cbc.pdf)
 - [La IA de google, Gemini](https://gemini.google.com/?hl=es)
 - [Cómo respiran las aves](https://nubika.es/noticias/como-respiran-aves/)
+- [Pasos para enseñar a hablar a tu loro](https://www.kiwoko.com/blogmundoanimal/ensenar-hablar-loro/#:~:text=Los%20loros%20aprenden%20a%20imitar,o%20simplemente%20palabras%20de%20aliento.)
+- [Psittaciformes, familia psittacidae](https://es.wikipedia.org/wiki/Psittaciformes)
+- 
