@@ -25,4 +25,4 @@ La idea es poder ir respondiendo esas preguntas o temas con cada una de las diap
 info:
 - [info de aves de Buenos Aires](https://www.tiendanimal.es/articulos/porque-los-loros-hablan/)
 - [¿Por qué "hablan" algunas aves?](https://www.tiendanimal.es/articulos/cotorras-argentinas/?srsltid=AfmBOoqBloEQqLEqh-HBj4wmEJCWk6QdlGZlfrkCuRaD1P57G8eHceH7)
-- [Listado de aves documentadas en el jardín botánico]([url](https://docs.google.com/document/d/1InsDTYSvYKJxovIKcClCdE1FUzC-tEei-nYNFQz4Wnc/edit?usp=sharing))
+- [Listado de aves documentadas en el jardín botánico](https://docs.google.com/document/d/1InsDTYSvYKJxovIKcClCdE1FUzC-tEei-nYNFQz4Wnc/edit?usp=sharing)
