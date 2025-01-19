@@ -27,3 +27,4 @@ info:
 - [¿Por qué "hablan" algunas aves?](https://www.tiendanimal.es/articulos/cotorras-argentinas/?srsltid=AfmBOoqBloEQqLEqh-HBj4wmEJCWk6QdlGZlfrkCuRaD1P57G8eHceH7)
 - [Listado de aves documentadas en el jardín botánico](https://buenosaires.gob.ar/sites/default/files/media/document/2018/02/10/61ad46a5a42ce1d1cc4bc58c9cbfa5ca8e518cbc.pdf)
 - [La IA de google, Gemini](https://gemini.google.com/?hl=es)
+- [Cómo respiran las aves](https://nubika.es/noticias/como-respiran-aves/)
